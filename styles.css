@@ -15,14 +15,14 @@ img {
 .main_name {
   color: aliceblue;
   position: absolute;
-  padding-left: 31.25rem;
-  font-size: 4.375rem;
+  padding-left: 31.25vw;
+  font-size: 4.375vw;
   margin-top: 0;
 }
 .launch_date {
   color: aliceblue;
   position: absolute;
-  padding-left: 41rem;
-  padding-top: 5rem;
-  font-size: 2rem;
+  padding-left: 41vw;
+  padding-top: 5vw;
+  font-size: 2vw;
 }
