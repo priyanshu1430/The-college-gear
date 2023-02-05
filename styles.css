@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+body {
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+}
+.main_div {
+  position: relative;
+}
+img {
+  position: absolute;
+  border: 0;
+  margin: 0;
+  width: 100%;
+}
+.main_name {
+  color: aliceblue;
+  position: absolute;
+  padding-left: 31.25rem;
+  font-size: 4.375rem;
+  margin-top: 0;
+}
+.launch_date {
+  color: aliceblue;
+  position: absolute;
+  padding-left: 41rem;
+  padding-top: 5rem;
+  font-size: 2rem;
+}
