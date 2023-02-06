@@ -23,7 +23,13 @@ img {
 .launch_date {
   color: aliceblue;
   position: absolute;
-  padding-left: 41vw;
+  padding-left: 40vw;
   padding-top: 15vw;
   font-size: 3vw;
+}
+.hrglass {
+  width: 2vw;
+  height: 2vw;
+  padding-left: 65vw;
+  padding-top: 19vw;
 }
