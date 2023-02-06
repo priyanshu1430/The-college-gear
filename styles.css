@@ -17,13 +17,13 @@ img {
   color: aliceblue;
   position: absolute;
   padding-left: 31.25vw;
-  font-size: 4.375vw;
-  margin-top: 0;
+  font-size: 5vw;
+  margin-top: 7vw;
 }
 .launch_date {
   color: aliceblue;
   position: absolute;
   padding-left: 41vw;
-  padding-top: 5vw;
-  font-size: 2vw;
+  padding-top: 15vw;
+  font-size: 3vw;
 }
